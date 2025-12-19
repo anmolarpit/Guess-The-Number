@@ -34,7 +34,3 @@ if (a == 3 and b== 3):
 elif(a ==3 and b == 1):print("LOST")
 elif(a == 3 and b ==2):print("------WON------")
 
-ans = input().lower()
-if ans == "n":
-    breakpoint 
-
